@@ -18,10 +18,10 @@
   { "@": "DAQWDL65D7AD55C" }, // number of the cardholder
   { "@": "DCFWDL65D7AD55CT089857522296" }, // number of the document
   { "@": "DCGUSA" }, // country in which the document was issued
-  { "@": "DDEN" }, // indicator taht the last name is truncated
+  { "@": "DDEN" }, // indicator that the last name is truncated
   { "@": "DDFN" }, // indicator that the first name is truncated
-  { "@": "DDGN" }, // country in which the document was isssued
-  { "@": "DCJ5089857522296" }, // indicator that the middle names are truncated
+  { "@": "DDGN" }, // indicator that the middle name is truncated
+  { "@": "DCJ5089857522296" }, // audit information
   { "@": "DDAN" }, // compliance type
   { "@": "DDB01012019" }, // card revision date
   { "@": "DAW200" }, // cardholder's weight in lbs
