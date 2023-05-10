@@ -42,6 +42,22 @@ const csvToJson = (csvData) => {
   const rows = csvData.split("\n");
   const headers = rows.shift().split(",");
 
+  // TODO: Clean up this logic later...
+  const keys = [];
+  const values = [];
+  const finalArr = [];
+  rows.forEach((row, i) => {
+    keys.push(row.substring(0, 3));
+    values.push(row.substring(3, row.length));
+  });
+
+  rows.forEach((row, i) => {
+    let obj = {};
+    obj[`${keys[i]}`] = `${values[i]}`;
+    finalArr.push(obj);
+  });
+  console.log("finalArr :=>", finalArr);
+  return finalArr;
   return rows.map((row) => {
     const rowData = row.split(",");
     return headers.reduce((jsonObj, header, index) => {

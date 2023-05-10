@@ -27,3 +27,33 @@
   { "@": "DAW200" }, // cardholder's weight in lbs
   { "@": "DDK1\r" }, // organ donor indicator
 ];
+
+// New Sample output implementation:
+[
+  { DCB: "B" },
+  { DCD: "NONE" },
+  { DBA: "01012028" },
+  { DCS: "DOE" },
+  { DAC: "JOHN" },
+  { DAD: "MIDDLENAME" },
+  { DBD: "01012022" },
+  { DBB: "01011977" },
+  { DBC: "1" },
+  { DAY: "BRO" },
+  { DAU: "073" },
+  { DAG: "9999 NE 19TH ST" },
+  { DAI: "PORTLAND" },
+  { DAJ: "OR" },
+  { DAK: "98765432" },
+  { DAQ: "WDL65D7AD55C" },
+  { DCF: "WDL65D7AD55CT089857522296" },
+  { DCG: "USA" },
+  { DDE: "N" },
+  { DDF: "N" },
+  { DDG: "N" },
+  { DCJ: "5089857522296" },
+  { DDA: "N" },
+  { DDB: "01012019" },
+  { DAW: "200" },
+  { DDK: "1" },
+];
