@@ -1,8 +1,8 @@
  <#document> <http://schema.org/thing> _:social
     _:social<http://schema.org/string> "000-000-0000">
     _:social<http://schema.org/description> "social security number"
-    _:government_docs<http://schema.org/government_docs> "government doc>.
+    _:government_docs<http://schema.org/government_docs> "government doc".
 
-<#document> <http://localhost:3000/timbot/Bank%20Statement/resume_Standen_Tim.pdf<www.schema.org/thing> _:file_size
-    _:file_size<www.schema.org/description> "size of file";
-    <www.schema.org/integer> 45.
+http://localhost:3000/timbot/Bank%20Statement/resume_Standen_Tim.pdf<www.schema.org/thing> _:file_size
+    _:file_size<www.schema.org/description> "size of file"
+    _:file_size<www.schema.org/integer> 45.

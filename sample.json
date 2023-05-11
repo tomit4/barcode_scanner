@@ -1,0 +1,39 @@
+[
+    {
+        "file_url": "#document",
+        "validation_schema_url": "http://schema.org/thing",
+        "_:social": {
+            "social_security_number": {
+                "value": {
+                    "validation_schema_url": "http://schema.org/string",
+                    "value": "000-000-0000"
+                }
+            },
+            "description": {
+                    "validation_schema_url": "http://schema.org/description",
+                    "value": "social security number"
+                }
+            },
+        },
+        "_:government_docs": {
+            "government_document": {
+                "validation_schema_url": "http://schema.org/government_docs",
+                "value": "government doc"
+            }
+        }
+    },
+    {
+        "file_url": "http://localhost:3000/timbot/Bank%20Statement/resume_Standen_Tim.pdf",
+        "validation_schema_url": "www.schema.org/thing",
+        "_:file_size": {
+            "description": {
+                "validation_schema_url": "www.schema.org/description",
+                "value": "bank statement"
+            },
+            "file_size": {
+                "validation_schema_url": "www.schema.org/integer",
+                "value": 45
+            }
+        }
+    }
+]
