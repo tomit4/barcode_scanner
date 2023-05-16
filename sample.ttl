@@ -1,4 +1,4 @@
- <#document> <http://schema.org/thing> _:social
+<#document> <http://schema.org/thing> _:social
     _:social<http://schema.org/string> "000-000-0000">
     _:social<http://schema.org/description> "social security number"
     _:government_docs<http://schema.org/government_docs> "government doc".

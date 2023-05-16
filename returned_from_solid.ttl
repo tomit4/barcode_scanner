@@ -1,0 +1,7 @@
+<#document> <https://schema.org/uploadDate> "2023-05-16T01:45:46.599Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <http://schema.org/name> "barcode.gif";
+    <http://schema.org/identifier> "Drivers License";
+    <http://schema.org/endDate> "2024-05-01";
+    <http://schema.org/serialNumber> "7e26762910e81ab78cf8e922fc2d89c3c43a61662f8f535bf043849dc7175dfb";
+    <http://schema.org/description> "Test DL";
+    <http://schema.org/url> <https://teonanacatl83.solidcommunity.net/Drivers%20License/barcode.gif>.

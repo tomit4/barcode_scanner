@@ -1,0 +1,103 @@
+RDF_PREDICATES :=>
+Object { PREFIX: "schema-inrupt", NAMESPACE: "http://schema.org/", PREFIX_AND_NAMESPACE: {…}, NS: _NS$e(localName)
+, Organization: "http://schema.org/Organization", Person: "http://schema.org/Person", ImageObject: "http://schema.org/ImageObject", URL: "http://schema.org/URL", MedicalTherapy: "http://schema.org/MedicalTherapy", EducationalOccupationalCredential: "http://schema.org/EducationalOccupationalCredential", … }
+​
+EducationalOccupationalCredential: "http://schema.org/EducationalOccupationalCredential"
+​
+Event: "http://schema.org/Event"
+​
+ImageObject: "http://schema.org/ImageObject"
+​
+MedicalTherapy: "http://schema.org/MedicalTherapy"
+​
+NAMESPACE: "http://schema.org/"
+​
+NS: function _NS$e(localName)
+​
+Organization: "http://schema.org/Organization"
+​
+PREFIX: "schema-inrupt"
+​
+PREFIX_AND_NAMESPACE: Object { "schema-inrupt": "http://schema.org/" }
+​
+Person: "http://schema.org/Person"
+​
+PostalAddress: "http://schema.org/PostalAddress"
+​
+Product: "http://schema.org/Product"
+​
+URL: "http://schema.org/URL"
+​
+accessCode: "http://schema.org/accessCode"
+​
+accountId: "http://schema.org/accountId"
+​
+additionalName: "http://schema.org/additionalName"
+​
+address: "http://schema.org/address"
+​
+addressCountry: "http://schema.org/addressCountry"
+​
+addressLocality: "http://schema.org/addressLocality"
+​
+addressRegion: "http://schema.org/addressRegion"
+​
+alternateName: "http://schema.org/alternateName"
+​
+attendee: "http://schema.org/attendee"
+​
+brand: "http://schema.org/brand"
+​
+dateModified: "http://schema.org/dateModified"
+​
+description: "http://schema.org/description"
+​
+distance: "http://schema.org/distance"
+​
+email: "http://schema.org/email"
+​
+endDate: "http://schema.org/endDate"
+​
+endTime: "http://schema.org/endTime"
+​
+familyName: "http://schema.org/familyName"
+​
+givenName: "http://schema.org/givenName"
+​
+identifier: "http://schema.org/identifier"
+​
+image: "http://schema.org/image"
+​
+latitude: "http://schema.org/latitude"
+​
+license: "http://schema.org/license"
+​
+longitude: "http://schema.org/longitude"
+​
+model: "http://schema.org/model"
+​
+name: "http://schema.org/name"
+​
+postalCode: "http://schema.org/postalCode"
+​
+primaryPrevention: "http://schema.org/primaryPrevention"
+​
+productID: "http://schema.org/productID"
+​
+qualifications: "http://schema.org/qualifications"
+​
+serialNumber: "http://schema.org/serialNumber"
+​
+startDate: "http://schema.org/startDate"
+​
+startTime: "http://schema.org/startTime"
+​
+streetAddress: "http://schema.org/streetAddress"
+​
+text: "http://schema.org/text"
+​
+uploadDate: "https://schema.org/uploadDate"
+​
+url: "http://schema.org/url"
+​
+value: "http://schema.org/value"
