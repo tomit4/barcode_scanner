@@ -1,0 +1,24 @@
+<#document> <https://schema.org/uploadDate> "2023-05-17T01:37:30.391Z"^^<http://www.w3.org/2001/XMLSchema#dateTime>;
+    <https://schema.org/additionalType> "01e\\rANSI 747954180002DL11401394DLDWANONE";
+    <https://schema.org/conditionsOfAccess> "B";
+    <https://schema.org/expires> "01012028";
+    <http://schema.org/givenName> "DOE";
+    <http://schema.org/alternateName> "JOHN";
+    <http://schema.org/familyName> "MIDDLENAME";
+    <https://schema.org/dateIssued> "01012022";
+    <https://schema.org/birthDate> "01011977";
+    <https://schema.org/gender> "1";
+    <https://schema.org/Eye> "BRO";
+    <https://schema.org/height> "073";
+    <http://schema.org/streetAddress> "9999 NE 19TH ST";
+    <https://schema.org/City> "PORTLAND";
+    <https://schema.org/State> "OR";
+    <https://schema.org/postalCode> "98765432";
+    <http://schema.org/identifier> "WDL65D7AD55C", "WDL65D7AD55CT089857522296";
+    <https://schema.org/Country> "USA";
+    <https://schema.org/additionalName> "N", "N", "N";
+    <http://schema.org/name> "barcode.gif";
+    <http://schema.org/endDate> "2023-05-16";
+    <http://schema.org/serialNumber> "7e26762910e81ab78cf8e922fc2d89c3c43a61662f8f535bf043849dc7175dfb";
+    <http://schema.org/description> "test";
+    <http://schema.org/url> <https://teonanacatl83.solidcommunity.net/Drivers%20License/barcode.gif>.

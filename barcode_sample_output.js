@@ -28,6 +28,7 @@
   { "@": "DDK1\r" }, // organ donor indicator
 ];
 
+// required: { "@": "\u001e\rANSI 747954180002DL11401394DLDWANONE" }, // vehicle classes allowed to drive
 // New Sample output implementation:
 [
   { DCB: "B" },
@@ -51,9 +52,4 @@
   { DDE: "N" },
   { DDF: "N" },
   { DDG: "N" },
-  { DCJ: "5089857522296" },
-  { DDA: "N" },
-  { DDB: "01012019" },
-  { DAW: "200" },
-  { DDK: "1" },
 ];
